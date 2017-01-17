@@ -8,4 +8,4 @@
 */
 
 $version			= "0.0.3";
-$releaseDate	= "16.01.2017";
+$releaseDate	= "17.01.2017";
