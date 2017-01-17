@@ -12,3 +12,7 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 - currentSong.php / change "include" to "include_once" to prevent redeclaring class
+- 
+
+### Change
+- readme.md / added readme file with instructions and installtion guide
