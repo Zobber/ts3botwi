@@ -35,12 +35,16 @@ It's a Webinterface to control the Teamspeak MusicBot. You can play files and pl
 
 ## Demo ##
 
-> Will be linked here
+View Demo here (No actions possible!)
+>> http://xkamikaze.de/projects/MusicBotWI/
 
 
 ## Screenshots ##
 
-> Coming soon!
+![ScreenShot](http://xkamikaze.de/projects/MusicBotWI/images/screenshots/home.png)
+![ScreenShot](http://xkamikaze.de/projects/MusicBotWI/images/screenshots/files.png)
+![ScreenShot](http://xkamikaze.de/projects/MusicBotWI/images/screenshots/playlist.png)
+![ScreenShot](http://xkamikaze.de/projects/MusicBotWI/images/screenshots/stream.png)
 
 
 ## Credits ##
