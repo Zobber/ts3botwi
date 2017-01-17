@@ -16,4 +16,3 @@ All notable changes to this project will be documented in this file.
 
 ### Change
 - readme.md / added readme file with instructions and installtion guide
-- uncommented lines to play the files
