@@ -1,7 +1,11 @@
 <?php
 require("../config.php");
+include("../sinusbot.class.php");
 include("../nav.php");
 include("../lang/$language.php");
+
+$sinusbot = new SinusBot($ipport);
+$sinusbot->login($user, $pass);
 
 // redirect back-to-home
 $newURL = $navplaylist;
