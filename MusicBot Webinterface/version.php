@@ -7,5 +7,5 @@
 	
 */
 
-$version			= "0.0.3";
+$version			= "0.0.4";
 $releaseDate	= "17.01.2017";
