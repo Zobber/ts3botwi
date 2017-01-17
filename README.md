@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Installation](#installation)
 - [To-Do](#To-Do)
-- [Example Projects](#example-projects)
+- [Demo](#Demo)
 - [Screenshots](#screenshots)
 - [Credits](#credits)
 
@@ -15,29 +15,33 @@ It's a Webinterface to control the Teamspeak MusicBot. You can play files and pl
 
 
 ## Installation ##
+
 - Download the .zip from this Git
 - Extract files to your folder on your webspace
 - Edit config.php with your server information and preferences
 - Edit sinusbot's config.ini
-	- EnableWebStream = true
-	- SampleInterval = 60
+	- ```EnableWebStream = true```
+	- ```SampleInterval = 60```
 - Enjoy! =)
 
 
 ## To-Do ##
+
 - adding user-login instead of hardcoded login
 - optimizing the webinterface for faster editing
 - adding feature to add more languages
 - adding search/download songtitle to local
 
 
-## Example Projects ##
+## Demo ##
 
 > Will be linked here
+
 
 ## Screenshots ##
 
 > Coming soon!
+
 
 ## Credits ##
 
