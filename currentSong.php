@@ -1,6 +1,6 @@
 <?php
 include("config.php");
-include("sinusbot.class.php");
+include_once("sinusbot.class.php");
 include("lang/$language.php");
 
 $sinusbot = new SinusBot($ipport);
