@@ -12,25 +12,25 @@ $song = $files[1]['uuid'];
 // Catch btn-submit
 	if (isset($_POST['playM'])) {
 		$sinusbot->selectInstance($instanceIDS[0]);
-		$sinusbot->playTrack($song);
+		//$sinusbot->playTrack($song);
     } 
 	
 	if (isset($_POST['pauseM'])) {
 		$instanceIDS;
 		// Wiedergabe Stoppen // Stop playing
-		$sinusbot->stop();
+		//$sinusbot->stop();
     }
 
 	if (isset($_POST['backwardM'])) {
 		$instanceIDS;
 		// Vorherige Lied abspielen // Play previous track
-		$sinusbot->playPrevious();
+		//$sinusbot->playPrevious();
     } 
 
 	if (isset($_POST['forwardM'])) {
 		$instanceIDS;
 		// Naechstes Lied abspielen // Play next track
-		$sinusbot->playNext();
+		//$sinusbot->playNext();
     }
 
 	

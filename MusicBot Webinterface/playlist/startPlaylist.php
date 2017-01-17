@@ -18,7 +18,7 @@ if (isset($_GET['playlist'])) {
 // get playlist uuid and start playlist
 if (isset($_GET['uuid'])) {
 		$playuuid = $_GET['uuid'];
-		$playMyPlaylist = $sinusbot->playPlaylist($playuuid, 0, $instanceIDS[$defaultInstance]);
+		//$playMyPlaylist = $sinusbot->playPlaylist($playuuid, 0, $instanceIDS[0]);
     } 
 
 // output msg and exit script
