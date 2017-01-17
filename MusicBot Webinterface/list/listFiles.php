@@ -38,7 +38,7 @@ for ($i = 0; $i < count($files); $i++) {
 // Start Song onClick
 if (isset($_GET['song'])) {
 	$song = $_GET['song'];
-	//$sinusbot->playTrack($song);
+	$sinusbot->playTrack($song);
 	header('Location: ' . "./");
 } 
 
